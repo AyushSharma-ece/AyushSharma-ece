@@ -4,7 +4,7 @@
 
 ### ECE Student | Aspiring VLSI Engineer | Verilog HDL Learner
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-kumar-b71b65246/)
 [![GitHub](https://img.shields.io/badge/GitHub-AyushSharma--ece-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AyushSharma-ece)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ayushsharma@users.noreply.github.com)
 [![Status](https://img.shields.io/badge/Status-Open_to_Collaborations-0284c7?style=flat-square)](https://github.com/AyushSharma-ece)
@@ -108,6 +108,7 @@ Semiconductor & RTL Learning Pipeline
 
 - **Institution:** Department of Electronics and Communication Engineering, Government Engineering College, Sheohar
 - **Location:** Bihar, India
+- **LinkedIn:** [linkedin.com/in/ayush-kumar-b71b65246](https://www.linkedin.com/in/ayush-kumar-b71b65246/)
 - **GitHub:** [github.com/AyushSharma-ece](https://github.com/AyushSharma-ece)
 
 <div align="center">
